@@ -17,12 +17,12 @@ API Documentation: http://wjwwood.github.io/serial/doc/1.1.0/index.html
 ### Dependencies
 
 Required:
-* -NOT REQURED-[catkin](http://www.ros.org/wiki/catkin) - cmake and Python based buildsystem -NOT REQURED-
+* -NOT REQUIRED-[catkin](http://www.ros.org/wiki/catkin) - cmake and Python based buildsystem -NOT REQUIRED-
 * -REQUIRED- [ament] - build system -REQUIRED-
 * [cmake](http://www.cmake.org) - buildsystem
 * [Python](http://www.python.org) - scripting language
   * [empy](http://www.alcyone.com/pyos/empy/) - Python templating library
-  * -NOT REQURED-[catkin_pkg](http://pypi.python.org/pypi/catkin_pkg/) - Runtime Python library for catkin -NOT REQURED- 
+  * -NOT REQUIRED-[catkin_pkg](http://pypi.python.org/pypi/catkin_pkg/) - Runtime Python library for catkin -NOT REQUIRED- 
 
 Optional (for documentation):
 * [Doxygen](http://www.doxygen.org/) - Documentation generation tool
